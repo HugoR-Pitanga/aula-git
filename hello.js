@@ -1,2 +1,2 @@
  var nome = "Hugo pitanga";
-console.log("ola , mundo "+ nome);
+console.log("olá! , mundo "+ nome);
